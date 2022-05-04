@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AsaDaboh
 - 👀 I’m interested in Copmuter Hardware/ Software, Robotics, Tech, Sports, 
 - 🌱 I’m currently learning Javascript, Java, Python, SQL
-/hjghj- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - asadaboh@gmail.com 
 
